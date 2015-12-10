@@ -4,7 +4,7 @@
 
 # NAME
 
-Devel::PatchPerl::Plugin::BenchmarkVirtualError - Avoid failures on Benchmark.t when building under a VM
+Devel::PatchPerl::Plugin::BenchmarkVirtualError - Avoid failures on Benchmark.t when building under certain virtual machines
 
 # VERSION
 
